@@ -1,0 +1,3 @@
+rootProject.name = 'ReactChess'
+
+include ':app'
